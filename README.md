@@ -147,4 +147,19 @@ export const environment = {
 
 ---
 
-## Semillero FetSociety — FET Neiva, 2026
+## Autores - Semillero FetSociety — FET Neiva, 2026
+
+
+- Juan Felipe Bahamon Castillo
+- José Eduar Ramírez Cardona
+- Santiago Tovar Vargas
+
+Tutora: Viviana Muñoz Álvarez
+
+## Repositorio relacionado
+
+Este panel web se conecta al módulo de IA desarrollado por el equipo:
+
+🔗 [GreenBin Vs 2.0 — Módulo IA (Python)](https://github.com/Jose-ramirez-ux/Greenbin-Vs-2.0)
+
+> Contiene `entrenar.py`, `demo_webcam.py`, `fewshot_desde_imagenes.py` y el modelo `greenbin_resnet18.pt`.
